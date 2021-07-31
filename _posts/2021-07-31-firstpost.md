@@ -8,4 +8,8 @@ toc_sticky: true
 ---
 
 
-Hello
+참고한 글
+
+https://devinlife.com/howto%20github%20pages/first-post/
+
+https://hahafamilia.github.io/howto/jekyll-github-mistakes-blog/
