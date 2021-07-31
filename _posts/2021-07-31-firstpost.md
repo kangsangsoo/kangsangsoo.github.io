@@ -10,6 +10,6 @@ toc_sticky: true
 
 참고한 글
 
-https://devinlife.com/howto%20github%20pages/first-post/
+[https://devinlife.com/howto%20github%20pages/first-post/](https://devinlife.com/howto%20github%20pages/first-post/)
 
-https://hahafamilia.github.io/howto/jekyll-github-mistakes-blog/
+[https://hahafamilia.github.io/howto/jekyll-github-mistakes-blog/](https://hahafamilia.github.io/howto/jekyll-github-mistakes-blog/)
